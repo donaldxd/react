@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+div.container{
+  margin-top: 10px;
+  overflow: hidden;
+  width: 100%;
+  background-color: #f7f9fb;
+}
+
+div.tablelist{
+  width: 15%;
+  float: left;
+  padding-bottom: 500em;
+  margin-bottom: -500em;
+}
+
+div.dashboard{
+  margin-top: 10px;
+  top:0px;
+  bottom:0px; 
+  width: 85%; 
+  height:100%;
+  float: right;
+  background-color: #f7f9fb;
+  padding-bottom: 500em;
+  margin-bottom: -500em;
+}
+
+div.productbrief{
+   margin-left:15px;
+}
+
+div.realtimechart{
+  margin-left:15px;
+}

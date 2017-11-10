@@ -1,0 +1,13 @@
+
+.TableList button {
+    background-color: #5085A5; /* Green background */
+    border: 1px solid #8fc1e3; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    width:100%;
+}
+
+.TableList button:hover {
+    background-color: #31708e; 
+}

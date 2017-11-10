@@ -1,0 +1,184 @@
+[
+    {
+        "Category": "ETF",
+        "FundID": "82822.HK",
+        "Name": "CSOP FTSE China A50 ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 1
+    },
+    {
+        "Category": "ETF",
+        "FundID": "2822.HK",
+        "Name": "CSOP FTSE China A50 ETF (HKD)",
+        "Seq": 1,
+        "SubSeq": 2
+    },
+    {
+        "Category": "ETF",
+        "FundID": "83137.HK",
+        "Name": "CSOP CES China A80 ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 3
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3137.HK",
+        "Name": "CSOP CES China A80 ETF (HKD)",
+        "Seq": 1,
+        "SubSeq": 4
+    },
+    {
+        "Category": "ETF",
+        "FundID": "83122.HK",
+        "Name": "CSOP China Ultra Short-Term Bond ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 5
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3122.HK",
+        "Name": "CSOP China Ultra Short-Term Bond ETF (HKD)",
+        "Seq": 1,
+        "SubSeq": 6
+    },
+    {
+        "Category": "ETF",
+        "FundID": "83129.HK",
+        "Name": "CSOP China CSI 300 Smart ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 7
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3129.HK",
+        "Name": "CSOP China CSI 300 Smart ETF (HKD)",
+        "Seq": 1,
+        "SubSeq": 8
+    },
+    {
+        "Category": "ETF",
+        "FundID": "83147.HK",
+        "Name": "CSOP SZSE ChiNext ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 9
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3147.HK",
+        "Name": "CSOP SZSE ChiNext ETF (HKD)",
+        "Seq": 1,
+        "SubSeq": 10
+    },
+    {
+        "Category": "ETF",
+        "FundID": "83149.HK",
+        "Name": "CSOP MSCI China A International ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 11
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3149.HK",
+        "Name": "CSOP MSCI China A International ETF",
+        "Seq": 1,
+        "SubSeq": 12
+    },
+    {
+        "Category": "ETF",
+        "FundID": "83199.HK",
+        "Name": "CSOP China 5-year Treasury Bond ETF (RMB)",
+        "Seq": 1,
+        "SubSeq": 13
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3199.HK",
+        "Name": "CSOP China 5-year Treasury Bond ETF (HKD)",
+        "Seq": 1,
+        "SubSeq": 14
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3021.HK",
+        "Name": "CSOP MSCI T50 ETF",
+        "Seq": 1,
+        "SubSeq": 15
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3135.HK",
+        "Name": "CSOP WTI Oil Annual Roll December Futures ER ETF",
+        "Seq": 1,
+        "SubSeq": 16
+    },
+    {
+        "Category": "ETF",
+        "FundID": "3167.HK",
+        "Name": "CSOP S&P NEW CHINA SECTORS ETF",
+        "Seq": 1,
+        "SubSeq": 17
+    },
+    {
+        "Category": "ETF",
+        "FundID": "AFTY.US",
+        "Name": "CSOP FTSE China A50 ETF",
+        "Seq": 1,
+        "SubSeq": 18
+    },
+    {
+        "Category": "ETF",
+        "FundID": "CNHX.US",
+        "Name": "CSOP MSCI China A International Hedged ETF",
+        "Seq": 1,
+        "SubSeq": 19
+    },
+    {
+        "Category": "ETF",
+        "FundID": "HAHA.US",
+        "Name": "CSOP China CSI 300 A-H Dynamic ETF",
+        "Seq": 1,
+        "SubSeq": 20
+    },
+    {
+        "Category": "L&I ETF",
+        "FundID": "7200.HK",
+        "Name": "CSOP Hang Seng Index Daily (2x) Leveraged Product",
+        "Seq": 2,
+        "SubSeq": 1
+    },
+    {
+        "Category": "L&I ETF",
+        "FundID": "7288.HK",
+        "Name": "CSOP Hang Seng Index Daily (-1x) Inverse Product",
+        "Seq": 2,
+        "SubSeq": 2
+    },
+    {
+        "Category": "L&I ETF",
+        "FundID": "7300.HK",
+        "Name": "CSOP Hang Seng China Enterprises Index Daily (2x) Leveraged Product",
+        "Seq": 2,
+        "SubSeq": 3
+    },
+    {
+        "Category": "L&I ETF",
+        "FundID": "7388.HK",
+        "Name": "CSOP Hang Seng China Enterprises Index Daily (-1x) Leveraged Product",
+        "Seq": 2,
+        "SubSeq": 4
+    },
+    {
+        "Category": "L&I ETF",
+        "FundID": "7202.HK",
+        "Name": "CSOP Nifty 50 Daily (2x) Leveraged Product",
+        "Seq": 2,
+        "SubSeq": 5
+    },
+    {
+        "Category": "L&I ETF",
+        "FundID": "7335.HK",
+        "Name": "CSOP Nifty 50 Daily (-1x) Leveraged Product",
+        "Seq": 2,
+        "SubSeq": 6
+    }
+]

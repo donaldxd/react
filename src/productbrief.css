@@ -1,0 +1,55 @@
+table{
+    
+    table-layout: fixed;
+    width: 550px;
+}
+
+th, td {
+    width: 80px;
+}
+
+
+.fundname{
+text-align:left;
+font-size: 30px;
+color: #31708e;
+
+}
+
+.itemtitle{
+    text-align:left;
+    font-size: 20px;
+    color: #687864;
+    width: 70px;
+}
+
+.premium{
+    padding-left:20px;
+    text-align:right;
+    font-size: 20px;
+    color: #e63327;
+    padding:10px;
+}
+
+.datafeed{
+    text-align:left;
+    font-size: 20px;
+    color: #174344;
+    vertical-align: middle;
+    width: 80px;
+}
+
+.itemtitle2{
+    text-align:left;
+    font-size: 13px;
+    color: #687864;
+    width:90px;
+}
+
+.datafeed2{
+    text-align:left;
+    font-size: 13px;
+    color: #174344;
+    vertical-align: middle;
+    padding:10px;
+}
